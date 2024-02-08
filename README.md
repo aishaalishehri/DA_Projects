@@ -10,7 +10,7 @@
 This project aims to provide a summary about E-commerce company customers. When they made a revenue by which browser, os, and etc. To help company know more about their customers to increase their revenue.
 
 ### Data Source
-The company data are from these files: online_shoppers_intention.csv, Regions.csv, Browser.csv, and Operating Systems.csv
+The company data are from these files: online_shoppers_intention.xlsx, Regions.xlsx, Browser.xlsx, and Operating Systems.xlsx
 
 ### Tools
 - Excel - Data Cleaning and Analysis
