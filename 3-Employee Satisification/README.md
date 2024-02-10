@@ -32,6 +32,8 @@ which analysis languages they prefer, average salary based on position.
    ```DAX
    = Table.AddColumn(#"Changed Type4", "Average Salary ", each ([#"Q3 - Current Yearly Salary (in USD) - Copy.1"] + [#"Q3 - Current Yearly Salary (in USD) - Copy.2"]) / 2)
    ```
+### Images
+<img width="293" alt="Capture" src="https://github.com/aishaalishehri/DA_Projects/assets/145159903/69672dcd-67d1-478c-a763-2a71ac451c5e">
 
 ### Results 
 1. Most of who took this survey and give us this bad impression are Adults.
