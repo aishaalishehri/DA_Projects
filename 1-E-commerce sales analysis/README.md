@@ -45,8 +45,5 @@ The company data are from these files: online_shoppers_intention.xlsx, Regions.x
 3. The most of active sessions end with revenue are in weekdays.
 
 ### Images 
-![image](https://github.com/aishaalishehri/DA_Projects/assets/145159903/3588159d-35e2-4219-8b29-665682aea33a)
+![image](https://github.com/aishaalishehri/DA_Projects/assets/145159903/11cb2d5d-0da0-41c7-9be0-27fac9813b4c)
 
-![image](https://github.com/aishaalishehri/DA_Projects/assets/145159903/89b1e275-dabf-4007-a88e-c5db6208c78b)
-
-![image](https://github.com/aishaalishehri/DA_Projects/assets/145159903/68633476-c020-46f6-a78f-af3295b0069e)
